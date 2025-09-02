@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Fuguator
 
-<!--
-**Fuguator/Fuguator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | 📊 AI & Data Enthusiast  
 
-Here are some ideas to get you started:
+- 🔭 Currently building projects with **Python (Flask, FastAPI, SQLAlchemy)**  
+- 🧠 Learning more about **Machine Learning & Data Analysis**  
+- 🐳 Exploring DevOps tools like **Docker & Kafka**  
+- 🚀 Planning to publish AI/ML projects soon  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Fuguator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuguator&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuguator&layout=compact&theme=tokyonight)  
+
+---

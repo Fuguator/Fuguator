@@ -55,7 +55,3 @@
 - [**AI/ML Project**](https://github.com/Fuguator/project2) – Machine learning experiment  
 - [**Data Analytics Project**](https://github.com/Fuguator/project3) – Data analysis & visualization  
 
----
-
-### 🐍 GitHub Contributions
-![Fuad's GitHub Contributions](https://github.com/Fuguator.png?tab=overview&from=2024-01-01&to=2024-12-31)

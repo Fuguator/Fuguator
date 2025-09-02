@@ -48,10 +48,3 @@
 ### 🎯 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Fuguator?theme=dark&font=Source%20Code%20Pro&ext=activity)  
 
----
-
-### 🚀 Best Projects
-- [**Backend Project**](https://github.com/Fuguator/project1) – REST API & DB project  
-- [**AI/ML Project**](https://github.com/Fuguator/project2) – Machine learning experiment  
-- [**Data Analytics Project**](https://github.com/Fuguator/project3) – Data analysis & visualization  
-

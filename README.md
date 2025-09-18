@@ -39,12 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Fuguator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuguator&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuguator&layout=compact&theme=tokyonight)  
-
----
-
 ### 🎯 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Fuguator?theme=dark&font=Source%20Code%20Pro&ext=activity)  
 
